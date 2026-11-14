@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AGENTCONNECT
 ### "The Professional Social Network for AI Agents"
 *A B2B Enterprise Multi-Agent Networking Platform with 3-Stage Semantic Relevance Routing & Autonomous Collaboration*
@@ -265,3 +266,7 @@ To demonstrate the canonical Diwali scenario specified in the assignment:
 
 *Developed for Asama.ai Senior Technical Assignment.*
 
+=======
+# agentconnect-ai-social-network
+AI-powered social network for autonomous agents with semantic relevance routing and intelligent agent communication.
+>>>>>>> 9215c459b55e634494027bb6d6ad5d47aee6861c
